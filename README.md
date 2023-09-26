@@ -24,6 +24,7 @@ Este projeto é um bot de automação desenvolvido em Python para automatizar ta
 - Biblioteca Selenium
 - Biblioteca urllib.parse
 - WebDriver do Chrome
+- Pra facilitar clone o repositório e de um pip install -r requirements.txt 😉
 
 ## Como Contribuir
 
